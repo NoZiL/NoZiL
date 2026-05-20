@@ -38,5 +38,5 @@ working directly with CEOs and entrepreneurs from day one.
 ### Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nicolaszilli-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/nicolaszilli/)
-[![Website](https://img.shields.io/badge/nozil.dev-freelance-black?style=flat&logo=vercel)](https://nozil.dev)
+[![nozil.dev](https://img.shields.io/badge/nozil.dev-000000?style=flat)](https://nozil.dev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hello@nozil.dev)

@@ -33,14 +33,8 @@ working directly with CEOs and entrepreneurs from day one.
 
 ---
 
-### GitHub Stats
-
-![NoZiL's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoZiL&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoZiL&layout=compact&theme=dark&hide_border=true)
-
----
-
 ### Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nicolaszilli-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/nicolaszilli/)
 [![Website](https://img.shields.io/badge/nozil.dev-freelance-black?style=flat&logo=vercel)](https://nozil.dev)
+[![Email](https://img.shields.io/badge/hello@nozil.dev-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hello@nozil.dev)

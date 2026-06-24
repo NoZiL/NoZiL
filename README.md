@@ -1,4 +1,4 @@
-# Nicolas Zilli — @NoZiL
+# Nicolas Zilli — @nozil
 
 **Lead Mobile Engineer** · React Native specialist · Freelance at [nozil.dev](https://nozil.dev)
 

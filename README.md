@@ -40,6 +40,7 @@ working directly with CEOs and entrepreneurs from day one.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nicolaszilli-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/nicolaszilli/)
 [![nozil.dev](https://img.shields.io/badge/nozil.dev-000000?style=flat)](https://nozil.dev)
 [![Malt](https://img.shields.io/badge/Malt-FC5757?style=flat&logoColor=white)](https://www.malt.fr/profile/nicolaszilli)
+[![Collective](https://img.shields.io/badge/Collective-6B4EFF?style=flat&logoColor=white)](https://www.collective.work/profile/nicolas-zilli)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](https://hashnode.com/@nozil)
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/nozil)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hello@nozil.dev)
